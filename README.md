@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Kirti Kumar 👋
 
-<!--
-**kirtikumar-01/kirtikumar-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Civil Engineering undergraduate (2028 Batch) at IIT Bhubaneswar working at the intersection of physical mechanics and computational engineering.
 
-Here are some ideas to get you started:
+My technical focus centers on applying numerical methods, data pipelines, and machine learning to model and analyze complex physical systems. Rather than treating structural analysis and computing as separate disciplines, I leverage code to build automated workflows, dynamic loading simulations, and algorithmic optimization frameworks.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔬 Technical Interests & Focus Areas
+
+* **Computational Mechanics & Structural Analysis:** Finite Element Analysis (FEA), dynamic time-history simulation, parametric design, and member optimization under structural codes.
+* **Applied Data Systems & Pipelines:** Automated ETL processing, vector search architectures, and structured exploratory data analysis.
+* **Engineering Mathematics & Computing:** Numerical methods, linear algebra, and probabilistic modeling applied to engineering problems.
+
+---
+
+### 🛠️ Core Engineering Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Structural & Physical Modeling** | ETABS, AutoCAD, Finite Element Analysis (FEA), Dynamic Analysis |
+| **Languages & Core CS** | Python, SQL, C Language |
+| **Data Systems & Analytics** | Pandas, NumPy, Matplotlib, Vector Databases, Advanced MS Excel |
+
+---
+
+### 📬 Connect
+
+* **Email:** [kirtikumar468@gmail.com](mailto:kirtikumar468@gmail.com)
+* **LinkedIn:** [linkedin.com/in/kirti-kumar-54b923340](https://www.linkedin.com/in/kirti-kumar-54b923340/)
